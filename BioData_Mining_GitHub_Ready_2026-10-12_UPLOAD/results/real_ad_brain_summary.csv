@@ -1,0 +1,3 @@
+feature,AD_mean,Ctrl_mean,log2FC,AD_vs_Ctrl_p,Braak_rho,Braak_p,n
+NAT10 (mRNA),2.838,2.994,-0.156,5.713812154994866e-08,-0.264,6e-06,289
+ac4C-target score,4.48,4.587,-0.107,9.334778853765092e-07,-0.301,0.0,289

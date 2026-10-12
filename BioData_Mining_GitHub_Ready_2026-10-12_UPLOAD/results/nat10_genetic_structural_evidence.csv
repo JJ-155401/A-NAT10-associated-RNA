@@ -1,0 +1,5 @@
+evidence,value,detail
+AlphaFold structure,absent,
+ClinVar pathogenic/likely-pathogenic variants,21,
+gnomAD constraint,NA,HTTP Error 400: Bad Request
+GWAS Catalog traits at NAT10 locus,3,Bone mineral density mean; Height; Insomnia in migraine with aura

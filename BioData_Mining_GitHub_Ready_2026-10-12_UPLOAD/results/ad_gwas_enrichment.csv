@@ -1,0 +1,2 @@
+analysis,ac4c_targets_n,ad_gwas_genes_n,overlap_n,background_n,odds_ratio,p_value,p_value_scientific,fold_enrichment,overlap_genes,key_ad_overlap,key_ad_nonoverlap
+AD_GWAS_enrichment,303,88,13,20162,11.8249,6.75643882149727e-10,6.7564e-10,9.83,ABCA7; APOE; APP; BIN1; CD33; CLU; GRIN3B; MAPT; PICALM; PSEN1; PSEN2; SORL1; TREM2,APOE; APP; MAPT; BIN1; CLU; PICALM; SORL1; ABCA7; TREM2; CD33; PSEN1; PSEN2,ACE; ADAM10; GRN; BACE1; BACE2; CD2AP; EPHA1; INPP5D; MEF2C; PLCG2; SPI1; TNIP1; NFKB1; NFKB2

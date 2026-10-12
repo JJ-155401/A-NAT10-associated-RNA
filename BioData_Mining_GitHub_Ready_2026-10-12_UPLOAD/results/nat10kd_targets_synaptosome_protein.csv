@@ -1,0 +1,2 @@
+symbol,entrez_id,log2FC_KD,padj,direction,significant,uniprot,Protein,log2FC_AD,p,q,consistent
+MAPK1,5594,0.2365198799969835,0.009872906562751,AD下调,True,P28482,P28482,0.9425978858378734,0.066753967652613,0.4442052326587313,True

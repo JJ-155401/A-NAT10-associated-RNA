@@ -1,0 +1,6 @@
+module,observed,expected_perm,std_perm,z_score,p_permutation
+Synaptic_transmission,56,168.0,0.0,-inf,1.0
+Mitochondrial_function,66,134.0,0.0,-inf,1.0
+Vesicle_cycling_transport,8,78.0,0.0,-inf,1.0
+Axonal_transport,6,101.0,0.0,-inf,1.0
+Neuronal_resilience,9,87.0,0.0,-inf,1.0

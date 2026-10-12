@@ -1,0 +1,4 @@
+gene_set,n_detected,n_acetylated,acetyl_fraction,background_acetyl_frac,enrich_p
+ac4C_targets,88,87,0.989,0.974,1.0
+AD_GWAS_risk,11,10,0.909,0.974,0.20187092433888665
+NAT10KD_AD,1,1,1.0,0.974,1.0

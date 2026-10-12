@@ -1,0 +1,4 @@
+set,n,direction_consistency,note
+All overlapping genes,804,0.374,KO reverses full AD (rho=-0.22)
+ac4C-target genes (per comprehensive),2088,0.774,KO specifically downregulates ac4C targets
+AD-down genes (ac4C activators),304,0.697,Activator targets: KO matches AD direction

@@ -1,0 +1,9 @@
+metric,value
+n_SNPs,4
+mean_F_stat,32.5
+observed_logOR,0.0227
+observed_SE,0.0236
+observed_p,0.335
+detectable_logOR_at80pct,0.0661
+power_for_observed_effect,0.161
+interpretation,Underpowered: cannot exclude weak causal OR~1.02; null is non-informative

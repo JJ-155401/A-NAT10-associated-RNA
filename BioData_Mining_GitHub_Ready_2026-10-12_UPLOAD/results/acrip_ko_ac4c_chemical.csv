@@ -1,0 +1,6 @@
+metric,value
+total ac4C peaks (acRIP),4250.0
+peaks significant (q~0),4250.0
+median WT/KO ac4C enrichment (FC),3.208
+implied % ac4C reduction in KO,68.8
+mean log10q (=-log10 q),833.1

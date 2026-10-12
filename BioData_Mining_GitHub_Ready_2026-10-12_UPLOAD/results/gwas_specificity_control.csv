@@ -1,0 +1,4 @@
+control,n_sets,mean_OR,z_vs_observed,p_vs_observed
+observed_AD_GWAS,1,11.824919540229885,0.0,
+random_background,10000,0.4491967434982453,19.17322161778391,0.0
+random_brain_disease,10000,14.091680314574734,-0.9598105159501968,0.8846

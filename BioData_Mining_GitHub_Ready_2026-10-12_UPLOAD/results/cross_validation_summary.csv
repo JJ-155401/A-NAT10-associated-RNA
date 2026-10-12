@@ -1,0 +1,2 @@
+analysis,zhou_dataset,mathys_dataset,zhou_n_cells,mathys_n_cells,n_common_cell_types,nat10_direction_concordance,ac4c_direction_concordance,overall_concordance_pct,nat10_fc_spearman_rho,ac4c_fc_spearman_rho
+single_cell_cross_validation,GSE147528 (Zhou 2020),GSE138852 (Mathys 2019),7,11503,6,2/6,2/6,33.3,,
